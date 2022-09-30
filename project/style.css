@@ -1,0 +1,110 @@
+/* HEADER1 */
+.sty{
+    padding: 10px ;   
+    
+}
+.btn{
+    color: white;
+}
+.clr{
+    background-color: rgb(83, 80, 80);
+    color: white;
+    
+}
+.lft{
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    color:white;
+}
+/* HEADER2 */
+.Container ul{
+    background-color: black;
+    width:340%;
+    padding: 20px 10px;
+}
+.Container ul li{
+    display: inline;
+  
+}
+.Container ul li a{
+    color: white;
+    font-size: 10px;
+    text-decoration: none;
+    padding-left: 10px;
+}
+/* header3 */
+.one{
+    background-color: #292929;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+/* header4 */
+.header4 a{
+background-color: #363c3f;
+padding: 10px 4px;
+font-size: 11px;
+}
+.header4 ul{
+    padding: 10px;
+}
+/* header5 */
+.header5 a{
+    color:black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.lef{
+    text-align: right;
+}
+.zero{
+height: 2px;
+background-color:gray;
+margin-top: 50px;
+}
+.h5{
+    background-color: #b6c7d2;
+    padding: 10px;
+}
+.para{
+    display: block;
+    margin-top: 10px;
+}
+/* header6 */
+.header6 .frist{
+    background-color:#b6c7d2;
+    margin-right: 1px;
+   
+   
+}
+.header6 .secend{
+    background-color:#363;
+    margin-right: 1px;
+   
+}
+.header6 .secend a{
+    color: white;
+    text-decoration: none;
+}
+.header6 .frist a{
+    color:black;
+    text-decoration: none;
+}
+.header6{
+    text-align: center;
+    margin-top: 20px;
+}
+.header6 .col{
+    width: 99%;
+}
+.header6 a{
+    color:black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.h5{
+    text-align: left;
+    margin-top: 10px;
+}
+
